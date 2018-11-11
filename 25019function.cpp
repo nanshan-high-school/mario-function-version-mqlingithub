@@ -22,7 +22,7 @@ int main() {
   }
 }
 void length (int length) {
-  for ( int b = 0; b <= length; b++ ) {
+  for ( int b = 0 ; b <= length ; b++ ) {
     cout << "#";
   }
 }
